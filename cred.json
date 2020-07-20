@@ -1,0 +1,14 @@
+[
+    {
+        "name" : "big reid",
+        "age":1000,
+        "ceo":"marry",
+        "rating":3.6
+    },
+    {
+        "name" : "reem yahea ",
+        "age":100,
+        "ceo":null,
+        "rating":2.2
+    },
+]
